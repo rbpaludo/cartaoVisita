@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CartaoVisita</string>
+    <string name="phone">(62) 9 9999-1234</string>
+    <string name="email">email@example.com</string>
+    <string name="github_id">rbpaludo</string>
+    <string name="profession">Estudante</string>
+    <string name="name">Rafael Beffart Paludo</string>
+</resources>
